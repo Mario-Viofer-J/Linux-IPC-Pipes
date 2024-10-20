@@ -86,8 +86,7 @@ write(wfd,buff,n);
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/a7838e27-a2b2-40df-9a5a-2d9713e6e659)
-
+![alt text](image.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
@@ -106,8 +105,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/fc9856bf-ef88-4c67-a1ba-b5904acb9a74)
-
+![alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
