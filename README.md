@@ -107,5 +107,5 @@ exit(EXIT_SUCCESS);
 ## OUTPUT
 ![alt text](image-1.png)
 
-# RESULT:
+## RESULT:
 The program is executed successfully.
